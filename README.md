@@ -11,3 +11,8 @@ provisioning features.
 
 We have added the features to allow provisioning VMs using shell scripts and
 allow external access by using port forwarding.
+
+## Provisioning with Ansible
+
+We have added the feature to allow provisioning VMs using Ansible running
+on local host machine.
