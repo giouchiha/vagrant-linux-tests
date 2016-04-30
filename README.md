@@ -16,3 +16,8 @@ allow external access by using port forwarding.
 
 We have added the feature to allow provisioning VMs using Ansible running
 on local host machine.
+
+## Provisioning with Docker
+
+We have added the feature to allow provisioning VMs with Docker installed
+so we can provision containers with docker inside de Virtual Machine.
